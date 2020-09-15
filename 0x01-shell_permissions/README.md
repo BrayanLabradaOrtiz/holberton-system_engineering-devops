@@ -1,0 +1,1 @@
+Permisos usuarios en shell
