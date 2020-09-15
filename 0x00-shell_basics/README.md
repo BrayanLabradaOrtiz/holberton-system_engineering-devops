@@ -1,0 +1,1 @@
+Imprime la ruta del directorio actual
